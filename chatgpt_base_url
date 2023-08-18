@@ -1,0 +1,3 @@
+chatgpt_base_url: http://107.172.137.36:10010/chatgpt/backend-api/
+
+实测：chatgpt_base_url为http://107.172.137.36:10010/chatgpt/backend-api/ 
